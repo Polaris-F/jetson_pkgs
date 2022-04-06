@@ -3,6 +3,9 @@
 #### 介绍
 存放Jetson平台比较难编译的包，方便大家直接pip install 
 
+路径 opencv-4.5.5/.cache/xfeatures2d/ 对应的文件 patch__.zip
+路径 opencv-4.5.5/.cache/wechat_qrcode/ 对应的文件 face_landmark_model.dat sr.caffemodel
+
 #### 软件架构
 软件架构说明
 
